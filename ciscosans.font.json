@@ -1,0 +1,40 @@
+{
+  "name": "CiscoSans",
+  "files": [{
+    "weight": 100,
+    "file": "./files/CiscoSansThin.otf"
+  }, {
+    "weight": 100,
+    "style": "italic",
+    "file": "./files/CiscoSansThinOblique.otf"
+
+  }, {
+    "weight": 200,
+    "file": "./files/CiscoSansExtraLight.otf"
+  }, {
+    "weight": 200,
+    "style": "italic",
+    "file": "./files/CiscoSansExtraLightOblique.otf"
+  }, {
+    "weight": 400,
+    "file": "./files/CiscoSansRegular.otf"
+  }, {
+    "weight": 400,
+    "style": "italic",
+    "file": "./files/CiscoSansRegularOblique.otf"
+  }, {
+    "weight": 700,
+    "file": "./files/CiscoSansBold.otf"
+  }, {
+    "weight": 700,
+    "style": "italic",
+    "file": "./files/CiscoSansBoldOblique.otf"
+  }, {
+    "weight": 900,
+    "file": "./files/CiscoSansHeavy.otf"
+  }, {
+    "weight": 900,
+    "style": "italic",
+    "file": "./files/CiscoSansHeavyOblique.otf"
+  }]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mki-font-ciscosans",
+  "version": "1.0.0",
+  "description": "Meraki CiscoSans font files",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/meraki/mki-font-ciscosans.git"
+  },
+  "main": "ciscosans.font.json"
+}
