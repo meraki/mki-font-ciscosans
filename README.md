@@ -2,6 +2,6 @@ Cisco Sans font [![GitHub release](https://img.shields.io/npm/v/mki-font-ciscosa
 ===============
 
 
-Read more about the [font](http://www.carrois.com/en/cisco-sans/).
+Read more about the [font](https://carrois.com/projects/Cisco/).
 
 Built to work with [font-loader](https://github.com/izaakschroeder/font-loader).
